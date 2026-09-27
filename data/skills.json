@@ -1,0 +1,138 @@
+{
+  "skills": [
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Programming",
+      "aliases": [
+        "python3"
+      ],
+      "related": [
+        "sql",
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "category": "Data",
+      "aliases": [
+        "structured query language"
+      ],
+      "related": [
+        "python"
+      ]
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning",
+      "category": "AI/ML",
+      "aliases": [
+        "ml",
+        "machine learning"
+      ],
+      "related": [
+        "deep-learning",
+        "python"
+      ]
+    },
+    {
+      "id": "deep-learning",
+      "name": "Deep Learning",
+      "category": "AI/ML",
+      "aliases": [
+        "dl",
+        "deep learning"
+      ],
+      "related": [
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "natural-language-processing",
+      "name": "Natural Language Processing",
+      "category": "AI/ML",
+      "aliases": [
+        "nlp",
+        "natural language processing"
+      ],
+      "related": [
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "fastapi",
+      "name": "FastAPI",
+      "category": "Backend",
+      "aliases": [
+        "fast api"
+      ],
+      "related": [
+        "python"
+      ]
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "DevOps",
+      "aliases": [
+        "docker containers"
+      ],
+      "related": []
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "category": "Cloud",
+      "aliases": [
+        "amazon web services"
+      ],
+      "related": []
+    },
+    {
+      "id": "pytorch",
+      "name": "PyTorch",
+      "category": "AI/ML",
+      "aliases": [
+        "torch"
+      ],
+      "related": [
+        "deep-learning"
+      ]
+    },
+    {
+      "id": "tensorflow",
+      "name": "TensorFlow",
+      "category": "AI/ML",
+      "aliases": [
+        "tf"
+      ],
+      "related": [
+        "deep-learning"
+      ]
+    },
+    {
+      "id": "scikit-learn",
+      "name": "Scikit-learn",
+      "category": "AI/ML",
+      "aliases": [
+        "sklearn",
+        "scikit learn"
+      ],
+      "related": [
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "pandas",
+      "name": "Pandas",
+      "category": "Data",
+      "aliases": [
+        "pandas library"
+      ],
+      "related": [
+        "python"
+      ]
+    }
+  ]
+}
